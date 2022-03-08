@@ -18,3 +18,15 @@ Amac, bir marjin araligina maksimum noktayi en kucuk hata ile alabilecek sekilde
 
 # YAPAY Sinir Aglari
 -Amac en kucuk hata ile tahmin yapabilecek katsayilara erismektir.
+
+# Classification and Regression Tree (CART)
+- Sinirlandirma ve regresyon agaci
+-Amac veri seti icerisindeki karmasik yapilari basit karar yapilarina donusturmektir.
+-Heterojen veri setleri belirlenmis bir hedef degiskene gore homojen alt gruplara ayrilir.
+
+# Random Forests
+Topluluk ogrenme yontemleri; Birden fazla algoritmanın ya da birden fazla agacin bir araya gelerek toplu bir sekilde ogrenmesi ve tahmin etmeye calismasidir.
+- Bagging
+Temeli bootstrap yontemi ile olusturulan birden fazla karar agacinin urettigi tahminlerin bir araya getirilerek degerlendirilmesine dayanir.
+Bagging calisma prensibinin kilit noktasi, bootstrap rastgele ornekleme yontemidir.
+Bootstrap rastgele ornekleme yontemi, gozlem birimlerinin icinden yerine koymali bir sekilde tekrar tekrar ornek cekmek demektir.
