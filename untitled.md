@@ -15,3 +15,6 @@ Siniflandirma ve regresyon icin kullanilabilir.
 Robust(Dayanikli) bir regresyon modelleme teknigidir.
 
 Amac, bir marjin araligina maksimum noktayi en kucuk hata ile alabilecek sekilde dogru ya da egriyi belirlemektir.
+
+# YAPAY Sinir Aglari
+-Amac en kucuk hata ile tahmin yapabilecek katsayilara erismektir.
