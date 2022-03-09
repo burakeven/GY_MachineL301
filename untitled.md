@@ -39,3 +39,6 @@ Artiklar = gercek ve tahmin edilen degerler arasindaki farklar
 
 # eXtreme Gradient Boosting(XGBoost)
 GBM'in hiz ve tahmin performansini arttirmak uzere optimize edilmis, olceklenebilir ve farkli platformlara entegre edilebilir halidir.
+
+# Light GBM
+XGBoost'un egitim suresi performansini arttirmaya yonelik gelistirilen bir diger GBM turudur.
