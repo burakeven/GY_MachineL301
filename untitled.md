@@ -30,3 +30,9 @@ Topluluk ogrenme yontemleri; Birden fazla algoritmanın ya da birden fazla agaci
 Temeli bootstrap yontemi ile olusturulan birden fazla karar agacinin urettigi tahminlerin bir araya getirilerek degerlendirilmesine dayanir.
 Bagging calisma prensibinin kilit noktasi, bootstrap rastgele ornekleme yontemidir.
 Bootstrap rastgele ornekleme yontemi, gozlem birimlerinin icinden yerine koymali bir sekilde tekrar tekrar ornek cekmek demektir.
+
+# Gradient Boosting Machines
+AdaBoost'un siniflandirma ve regresyon problemlerine kolayca uyarlanabilen genellestirilmis versiyonudur.
+Artiklar uzerine tek bir tahminsel model formunda olan modeller serisi kurulur.
+
+Artiklar = gercek ve tahmin edilen degerler arasindaki farklar
