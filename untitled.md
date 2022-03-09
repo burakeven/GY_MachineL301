@@ -36,3 +36,6 @@ AdaBoost'un siniflandirma ve regresyon problemlerine kolayca uyarlanabilen genel
 Artiklar uzerine tek bir tahminsel model formunda olan modeller serisi kurulur.
 
 Artiklar = gercek ve tahmin edilen degerler arasindaki farklar
+
+# eXtreme Gradient Boosting(XGBoost)
+GBM'in hiz ve tahmin performansini arttirmak uzere optimize edilmis, olceklenebilir ve farkli platformlara entegre edilebilir halidir.
