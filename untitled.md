@@ -42,3 +42,6 @@ GBM'in hiz ve tahmin performansini arttirmak uzere optimize edilmis, olceklenebi
 
 # Light GBM
 XGBoost'un egitim suresi performansini arttirmaya yonelik gelistirilen bir diger GBM turudur.
+
+# Category Boosting(CatBoost)
+-Kategorik degiskenler ile otomatik olarak mucadele edebilen hizli, basarili bir diger GBM turevidir.
